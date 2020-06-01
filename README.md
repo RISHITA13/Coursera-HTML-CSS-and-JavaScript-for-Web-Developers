@@ -11,3 +11,4 @@ Coursera-HTML-CSS-and-Javascript-for-Web-Developers
 
 OUTPUT
 * [Module-2](https://rishita13.github.io/coursera-test/module2-soln/)
+* [Module-2 Code ](https://github.com/RISHITA13/coursera-test/tree/master/module2-soln)
