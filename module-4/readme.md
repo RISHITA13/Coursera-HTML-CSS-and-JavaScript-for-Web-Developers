@@ -4,5 +4,5 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://rishita13.github.io/coursera-test/module-4/)
+# To see the output [CLICK HERE](https://rishita13.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module-4/)
 
